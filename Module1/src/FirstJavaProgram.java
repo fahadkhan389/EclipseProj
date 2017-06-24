@@ -19,6 +19,10 @@ for(i=0;i<5;i++)
 }
 System.out.println(sum);
 
+int mylist1[]=new int[5];
+String mylist2[]=new String[8];
+System.out.println(mylist1.length);
+System.out.println(mylist2.length);
 	}
 	
 
